@@ -1,0 +1,153 @@
+{
+  "navigation": {
+    "home": "Accueil",
+    "about": "À propos",
+    "services": "Services",
+    "contact": "Contact",
+    "getStarted": "Commencer"
+  },
+  "hero": {
+    "tagline": "Conseil en Ingénierie Technologique",
+    "title": "Aligner la Technologie avec les",
+    "titleHighlight": "Objectifs d'Entreprise",
+    "description": "Booasacre fournit des solutions technologiques innovantes pour stimuler la croissance, améliorer l'efficacité et guider les organisations à travers la transformation numérique.",
+    "requestConsultation": "Demander une Consultation",
+    "exploreServices": "Explorer les Services"
+  },
+  "services": {
+    "title": "Nos Services Principaux",
+    "subtitle": "Solutions technologiques complètes conçues pour transformer votre entreprise et stimuler l'innovation.",
+    "itStrategy": {
+      "title": "Conseil en Stratégie IT",
+      "description": "Aligner les initiatives technologiques avec les objectifs d'entreprise pour stimuler la croissance et l'innovation."
+    },
+    "cloudSolutions": {
+      "title": "Solutions Cloud",
+      "description": "Conception d'architectures cloud évolutives pour la flexibilité et l'efficacité des coûts."
+    },
+    "cybersecurity": {
+      "title": "Services de Cybersécurité",
+      "description": "Évaluations de sécurité complètes et solutions pour protéger les actifs numériques."
+    },
+    "dataAnalytics": {
+      "title": "Analyse de Données",
+      "description": "Transformer les données en informations exploitables pour une prise de décision éclairée."
+    },
+    "softwareDevelopment": {
+      "title": "Développement Logiciel",
+      "description": "Solutions logicielles personnalisées adaptées aux besoins spécifiques de l'entreprise."
+    },
+    "digitalTransformation": {
+      "title": "Transformation Numérique",
+      "description": "Guider les organisations à travers le changement technologique pour améliorer l'efficacité."
+    },
+    "mobileApp": {
+      "title": "Développement d'Applications Mobiles",
+      "description": "Création d'applications mobiles conviviales pour iOS et Android."
+    },
+    "aiMachineLearning": {
+      "title": "IA et Apprentissage Automatique",
+      "description": "Implémentation de solutions intelligentes et adaptatives pour optimiser les processus métier."
+    }
+  },
+  "footer": {
+    "description": "Solutions de conseil en ingénierie technologique pour aligner la technologie avec les objectifs d'entreprise et stimuler l'innovation.",
+    "company": "Entreprise",
+    "services": "Services",
+    "moreServices": "Plus de Services",
+    "legal": "Légal",
+    "privacyPolicy": "Politique de Confidentialité",
+    "termsOfService": "Conditions de Service",
+    "cookiePolicy": "Politique des Cookies",
+    "copyright": "Tous droits réservés.",
+    "tagline": "Construit avec innovation et excellence en conseil technologique."
+  },
+  "language": {
+    "switch": "Changer de Langue",
+    "english": "English",
+    "french": "Français"
+  },
+  "about": {
+    "hero": {
+      "title": "Autonomiser les Entreprises par la Technologie",
+      "description": "Booasacre est une firme de conseil en ingénierie technologique de premier plan, dédiée à aider les organisations à naviguer dans la complexité de la transformation numérique et à atteindre leurs objectifs stratégiques."
+    },
+    "mission": {
+      "title": "Notre Mission",
+      "description": "Fournir des solutions technologiques innovantes qui s'alignent avec les objectifs commerciaux de nos clients, stimulant une croissance durable et un avantage concurrentiel. Nous nous engageons envers l'excellence, l'intégrité et la construction de partenariats à long terme qui créent une valeur durable."
+    },
+    "vision": {
+      "title": "Notre Vision",
+      "description": "Être le partenaire de conseil technologique le plus fiable pour les organisations cherchant à exploiter le pouvoir de l'innovation. Nous envisageons un avenir où la technologie permet de manière transparente le succès commercial et stimule une transformation significative à travers les industries."
+    },
+    "values": {
+      "title": "Nos Valeurs Fondamentales",
+      "subtitle": "Les principes qui guident notre travail et définissent notre engagement envers l'excellence.",
+      "innovation": {
+        "title": "Axé sur l'Innovation",
+        "description": "Nous restons à l'avant-garde des tendances technologiques pour fournir des solutions de pointe qui vous donnent un avantage concurrentiel."
+      },
+      "excellence": {
+        "title": "Excellence",
+        "description": "Notre engagement envers la qualité garantit que chaque projet respecte les plus hauts standards de performance et de fiabilité."
+      },
+      "clientCentric": {
+        "title": "Centré sur le Client",
+        "description": "Votre succès est notre succès. Nous construisons des partenariats durables basés sur la confiance, la transparence et des résultats mesurables."
+      },
+      "agility": {
+        "title": "Agilité",
+        "description": "Nous nous adaptons rapidement aux changements des besoins commerciaux et des paysages technologiques, garantissant que vos solutions restent pertinentes."
+      }
+    },
+    "team": {
+      "title": "Rencontrez Notre Équipe",
+      "subtitle": "Un groupe talentueux de professionnels dédiés à stimuler le succès technologique et commercial."
+    },
+    "expertise": {
+      "title": "Notre Expertise",
+      "description1": "Booasacre est une firme de conseil technologique en pleine croissance qui s'établit comme un partenaire de confiance pour les organisations à travers diverses industries. Notre équipe de consultants experts apporte une connaissance technique approfondie et un sens pratique des affaires à chaque engagement.",
+      "description2": "Nous nous spécialisons dans l'aide aux organisations pour naviguer dans les défis technologiques complexes, de la migration cloud et de la cybersécurité à l'implémentation de l'IA et la transformation numérique. Notre approche combine la pensée stratégique avec l'exécution pratique, garantissant que les investissements technologiques fournissent une valeur commerciale mesurable.",
+      "description3": "Que vous soyez une startup construisant votre fondation technologique ou une entreprise cherchant à moderniser les systèmes hérités, nous avons l'expertise et l'adaptabilité pour vous guider à travers chaque étape de votre parcours technologique."
+    },
+    "cta": {
+      "title": "Prêt à Travailler Ensemble ?",
+      "description": "Discutons de comment notre expertise peut aider votre organisation à atteindre ses objectifs technologiques et stimuler le succès commercial.",
+      "getInTouch": "Entrer en Contact",
+      "viewServices": "Voir Nos Services"
+    }
+  },
+  "services": {
+    "hero": {
+      "title": "Solutions Technologiques pour Chaque Défi",
+      "description": "Notre suite complète de services couvre tout le paysage technologique, de la stratégie à l'implémentation. Nous nous associons à vous pour fournir des solutions innovantes qui génèrent des résultats mesurables."
+    },
+    "keyBenefits": "Avantages Clés",
+    "cta": {
+      "title": "Discutons de Vos Besoins Technologiques",
+      "description": "Chaque organisation a des défis uniques. Notre équipe est prête à comprendre vos exigences spécifiques et à concevoir une solution sur mesure.",
+      "requestConsultation": "Demander une Consultation"
+    }
+  },
+  "contact": {
+    "hero": {
+      "title": "Entrer en Contact",
+      "description": "Vous avez une question ou êtes prêt à commencer votre projet ? Nous sommes là pour vous aider. Contactez-nous et discutons de comment nous pouvons soutenir vos besoins technologiques."
+    },
+    "contactInfo": {
+      "email": "Email",
+      "phone": "Téléphone",
+      "office": "Bureau",
+      "businessHours": "Heures d'Ouverture"
+    },
+    "forms": {
+      "contactUs": "Nous Contacter",
+      "requestConsultation": "Demander une Consultation"
+    }
+  },
+  "common": {
+    "loading": "Chargement...",
+    "error": "Une erreur s'est produite",
+    "retry": "Réessayer"
+  }
+}

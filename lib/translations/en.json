@@ -1,0 +1,153 @@
+{
+  "navigation": {
+    "home": "Home",
+    "about": "About Us",
+    "services": "Services",
+    "contact": "Contact",
+    "getStarted": "Get Started"
+  },
+  "hero": {
+    "tagline": "Technology Engineering Consulting",
+    "title": "Aligning Technology with",
+    "titleHighlight": "Business Goals",
+    "description": "Booasacre provides innovative technology solutions to drive growth, enhance efficiency, and guide organizations through digital transformation.",
+    "requestConsultation": "Request Consultation",
+    "exploreServices": "Explore Services"
+  },
+  "services": {
+    "title": "Our Core Services",
+    "subtitle": "Comprehensive technology solutions designed to transform your business and drive innovation.",
+    "itStrategy": {
+      "title": "IT Strategy Consulting",
+      "description": "Aligning technology initiatives with business goals to drive growth and innovation."
+    },
+    "cloudSolutions": {
+      "title": "Cloud Solutions",
+      "description": "Designing scalable cloud architectures for flexibility and cost efficiency."
+    },
+    "cybersecurity": {
+      "title": "Cybersecurity Services",
+      "description": "Comprehensive security assessments and solutions to protect digital assets."
+    },
+    "dataAnalytics": {
+      "title": "Data Analytics",
+      "description": "Transforming data into actionable insights for informed decision-making."
+    },
+    "softwareDevelopment": {
+      "title": "Software Development",
+      "description": "Custom software solutions tailored to specific business needs."
+    },
+    "digitalTransformation": {
+      "title": "Digital Transformation",
+      "description": "Guiding organizations through technological change to enhance efficiency."
+    },
+    "mobileApp": {
+      "title": "Mobile App Development",
+      "description": "Building user-friendly mobile applications for iOS and Android."
+    },
+    "aiMachineLearning": {
+      "title": "AI & Machine Learning",
+      "description": "Implementing intelligent, adaptive solutions to optimize business processes."
+    }
+  },
+  "footer": {
+    "description": "Technology engineering consulting solutions to align technology with business goals and drive innovation.",
+    "company": "Company",
+    "services": "Services",
+    "moreServices": "More Services",
+    "legal": "Legal",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfService": "Terms of Service",
+    "cookiePolicy": "Cookie Policy",
+    "copyright": "All rights reserved.",
+    "tagline": "Built with innovation and excellence in technology consulting."
+  },
+  "language": {
+    "switch": "Switch Language",
+    "english": "English",
+    "french": "Français"
+  },
+  "about": {
+    "hero": {
+      "title": "Empowering Businesses Through Technology",
+      "description": "Booasacre is a leading technology engineering consulting firm dedicated to helping organizations navigate the complexities of digital transformation and achieve their strategic objectives."
+    },
+    "mission": {
+      "title": "Our Mission",
+      "description": "To deliver innovative technology solutions that align with our clients' business goals, driving sustainable growth and competitive advantage. We are committed to excellence, integrity, and building long-term partnerships that create lasting value."
+    },
+    "vision": {
+      "title": "Our Vision",
+      "description": "To be the most trusted technology consulting partner for organizations seeking to harness the power of innovation. We envision a future where technology seamlessly enables business success and drives meaningful transformation across industries."
+    },
+    "values": {
+      "title": "Our Core Values",
+      "subtitle": "The principles that guide our work and define our commitment to excellence.",
+      "innovation": {
+        "title": "Innovation-Driven",
+        "description": "We stay at the forefront of technology trends to deliver cutting-edge solutions that give you a competitive advantage."
+      },
+      "excellence": {
+        "title": "Excellence",
+        "description": "Our commitment to quality ensures every project meets the highest standards of performance and reliability."
+      },
+      "clientCentric": {
+        "title": "Client-Centric",
+        "description": "Your success is our success. We build lasting partnerships based on trust, transparency, and measurable results."
+      },
+      "agility": {
+        "title": "Agility",
+        "description": "We adapt quickly to changing business needs and technology landscapes, ensuring your solutions remain relevant."
+      }
+    },
+    "team": {
+      "title": "Meet Our Team",
+      "subtitle": "A talented group of professionals dedicated to driving technology and business success."
+    },
+    "expertise": {
+      "title": "Our Expertise",
+      "description1": "Booasacre is a rising technology consulting firm establishing itself as a trusted partner for organizations across diverse industries. Our team of expert consultants brings deep technical knowledge and practical business acumen to every engagement.",
+      "description2": "We specialize in helping organizations navigate complex technology challenges, from cloud migration and cybersecurity to AI implementation and digital transformation. Our approach combines strategic thinking with hands-on execution, ensuring that technology investments deliver measurable business value.",
+      "description3": "Whether you're a startup building your technology foundation or a business looking to modernize legacy systems, we have the expertise and adaptability to guide you through every step of your technology journey."
+    },
+    "cta": {
+      "title": "Ready to Work Together?",
+      "description": "Let's discuss how our expertise can help your organization achieve its technology goals and drive business success.",
+      "getInTouch": "Get in Touch",
+      "viewServices": "View Our Services"
+    }
+  },
+  "services": {
+    "hero": {
+      "title": "Technology Solutions for Every Challenge",
+      "description": "Our comprehensive suite of services spans the entire technology landscape, from strategy to implementation. We partner with you to deliver innovative solutions that drive measurable results."
+    },
+    "keyBenefits": "Key Benefits",
+    "cta": {
+      "title": "Let's Discuss Your Technology Needs",
+      "description": "Every organization has unique challenges. Our team is ready to understand your specific requirements and design a tailored solution.",
+      "requestConsultation": "Request a Consultation"
+    }
+  },
+  "contact": {
+    "hero": {
+      "title": "Get in Touch",
+      "description": "Have a question or ready to start your project? We're here to help. Reach out to us and let's discuss how we can support your technology needs."
+    },
+    "contactInfo": {
+      "email": "Email",
+      "phone": "Phone",
+      "office": "Office",
+      "businessHours": "Business Hours"
+    },
+    "forms": {
+      "contactUs": "Contact Us",
+      "requestConsultation": "Request Consultation"
+    }
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "retry": "Retry"
+  }
+}
