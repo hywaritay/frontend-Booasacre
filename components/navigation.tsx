@@ -29,8 +29,8 @@ export function Navigation() {
             <Image
               src="/images/booasacre-logo.png"
               alt="Booasacre"
-              width={180}
-              height={40}
+              width={540}
+              height={180}
               className="h-20 w-auto"
               priority
             />
