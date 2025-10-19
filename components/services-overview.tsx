@@ -9,50 +9,50 @@ const getServices = (t: (key: string) => string) => [
   {
     number: "01",
     icon: Lightbulb,
-    title: t("services.itStrategy.title"),
-    description: t("services.itStrategy.description"),
+    title: "IT Strategy Consulting",
+    description: "Aligning technology initiatives with business goals to drive growth and innovation.",
   },
   {
     number: "02",
     icon: Cloud,
-    title: t("services.cloudSolutions.title"),
-    description: t("services.cloudSolutions.description"),
+    title: "Cloud Solutions",
+    description: "Designing scalable cloud architectures for flexibility and cost efficiency.",
   },
   {
     number: "03",
     icon: Shield,
-    title: t("services.cybersecurity.title"),
-    description: t("services.cybersecurity.description"),
+    title: "Cybersecurity Services",
+    description: "Comprehensive security assessments and solutions to protect digital assets.",
   },
   {
     number: "04",
     icon: BarChart3,
-    title: t("services.dataAnalytics.title"),
-    description: t("services.dataAnalytics.description"),
+    title: "Data Analytics",
+    description: "Transforming data into actionable insights for informed decision-making.",
   },
   {
     number: "05",
     icon: Code,
-    title: t("services.softwareDevelopment.title"),
-    description: t("services.softwareDevelopment.description"),
+    title: "Software Development",
+    description: "Custom software solutions tailored to specific business needs.",
   },
   {
     number: "06",
     icon: Zap,
-    title: t("services.digitalTransformation.title"),
-    description: t("services.digitalTransformation.description"),
+    title: "Digital Transformation",
+    description: "Guiding organizations through technological change to enhance efficiency.",
   },
   {
     number: "07",
     icon: Smartphone,
-    title: t("services.mobileApp.title"),
-    description: t("services.mobileApp.description"),
+    title: "Mobile App Development",
+    description: "Building user-friendly mobile applications for iOS and Android.",
   },
   {
     number: "08",
     icon: Brain,
-    title: t("services.aiMachineLearning.title"),
-    description: t("services.aiMachineLearning.description"),
+    title: "AI & Machine Learning",
+    description: "Implementing intelligent, adaptive solutions to optimize business processes.",
   },
 ]
 
@@ -64,9 +64,9 @@ export function ServicesOverview() {
     <section className="px-4 sm:px-6 lg:px-8">
       <div className="container mx-auto">
         <div className="text-center mb-16">
-          <h2 className="text-3xl sm:text-4xl md:text-5xl font-bold mb-4 text-balance">{t("services.title")}</h2>
+          <h2 className="text-3xl sm:text-4xl md:text-5xl font-bold mb-4 text-balance">Our Core Services</h2>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto text-pretty leading-relaxed">
-            {t("services.subtitle")}
+             Comprehensive technology solutions designed to transform your business and drive innovation.
           </p>
         </div>
 
