@@ -48,7 +48,7 @@ export function Footer() {
           {/* Brand Column */}
           <div className="lg:col-span-2">
             <Link href="/" className="inline-block mb-4">
-              <Image src="/images/booasacre-logo.png" alt="Booasacre" width={180} height={40} className="h-8 w-auto" />
+              <Image src="/images/booasacre-logo.png" alt="Booasacre" width={540} height={180} className="h-24 w-auto" />
             </Link>
             <p className="text-sm text-muted-foreground mb-4 leading-relaxed">
               {t("footer.description")}
