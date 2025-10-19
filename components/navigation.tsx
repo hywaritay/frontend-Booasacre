@@ -31,7 +31,7 @@ export function Navigation() {
               alt="Booasacre"
               width={180}
               height={40}
-              className="h-8 w-auto"
+              className="h-20 w-auto"
               priority
             />
           </Link>
